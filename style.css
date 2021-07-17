@@ -1,0 +1,16 @@
+.disk1{
+    height:150px;
+    width: 150px;}
+.disk2{
+    height:150px;
+    width: 150px;
+}
+.volume_div{
+    float: left;
+}
+.speed_div{
+    float: right;
+}
+body{
+    background-size: cover;
+}
